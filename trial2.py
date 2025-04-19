@@ -7,3 +7,4 @@ def hello(name):
 
 
 print(hello("Amit Pise,"))
+print(hello("Ashish"))
